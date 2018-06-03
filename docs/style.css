@@ -634,8 +634,36 @@ div.pp_default .pp_loaderIcon
 
 /* END ABOUT SECTION */
 
+/* GOALS SECTION */
 
-/* NEWS SECTION */
+#goals
+{
+    background-color: rgb(34, 28, 90); 
+    background-image: url("demo-images/background_img_03.jpg"); 
+    background-repeat: no-repeat; 
+    background-position: center top; 
+    background-size: cover; 
+    z-index: 7;
+}
+
+#goals .section-title-holder
+{
+    background-color: #32DB8A;
+}
+
+#goals .section-title-holder span
+{
+    color: #55B286;
+}
+
+#goals .section-content-holder
+{
+    padding-bottom: 0;
+}
+
+/* END GOALS SECTION */
+
+/* REFERENCES SECTION */
 
 #references
 {
@@ -645,6 +673,16 @@ div.pp_default .pp_loaderIcon
     background-position: center center; 
     background-size: cover; 
     z-index: 6;
+}
+
+#references .section-title-holder
+{
+    background-color: #e64b77;
+}
+
+#references .section-title-holder span
+{
+    color: #b24564;
 }
 
 .blog-item-holder
@@ -742,7 +780,7 @@ div.pp_default .pp_loaderIcon
     letter-spacing: 3px;    
 }
 
-/* END NEWS SECTION */
+/* END REFERENCES SECTION */
 
 
 
