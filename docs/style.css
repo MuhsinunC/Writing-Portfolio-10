@@ -661,6 +661,11 @@ div.pp_default .pp_loaderIcon
     padding-bottom: 0;
 }
 
+#goals .content-title
+{
+    font-size: 164px;
+}
+
 /* END GOALS SECTION */
 
 /* REFERENCES SECTION */
